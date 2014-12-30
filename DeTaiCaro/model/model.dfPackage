@@ -1,0 +1,158 @@
+package id377okfnqmmhlufnqmt7t1;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:java#Class#model.Point:oiref><oihard>
+@__modelType reference
+@hideAttributes
+@hideOperations 
+*/
+class reference {
+}/**
+@__ref <oiref:java#Class#model.Human_Human:oiref><oihard>
+@__modelType reference 
+@hideAttributes
+@hideOperations
+*/
+class reference14 {
+}/**
+@__ref <oiref:java#Class#model.Human_Computer:oiref><oihard>
+@__modelType reference 
+@hideAttributes
+@hideOperations
+*/
+class reference15 {
+}/**
+@__ref <oiref:java#Class#model.FindAPointWithHuman:oiref><oihard>
+@__modelType reference 
+@hideAttributes
+@hideOperations
+*/
+class reference16 {
+}/**
+@__ref <oiref:java#Class#model.CheckWinGomokuRule:oiref><oihard>
+@__modelType reference 
+@hideAttributes
+@hideOperations
+*/
+class reference17 {
+}/**
+@__ref <oiref:java#Class#model.FindAPointWithHeuristicCaroRuleEasy:oiref><oihard>
+@__modelType reference 
+@hideAttributes
+@hideOperations
+*/
+class reference18 {
+}/**
+@__ref <oiref:java#Class#model.CheckWinCaroRule:oiref><oihard>
+@__modelType reference 
+@hideAttributes
+@hideOperations
+*/
+class reference19 {
+}/**
+@__ref <oiref:java#Class#model.IModel:oiref><oihard>
+@__modelType reference
+@hideAttributes 
+*/
+class reference20 {
+}/**
+@__ref <oiref:java#Class#model.FindAPointStrategy:oiref><oihard>
+@__modelType reference 
+@hideAttributes
+@hideOperations
+*/
+class reference21 {
+}/**
+@__ref <oiref:java#Class#model.ChessBoard:oiref><oihard>
+@__modelType reference 
+*/
+class reference22 {
+}/**
+@__ref <oiref:java#Class#model.CheckWinStrategy:oiref><oihard>
+@__modelType reference 
+@hideAttributes*/
+class reference24 {
+}/**
+@__ref <oiref:java#Class#model.Model:oiref><oihard>
+@__modelType reference 
+*/
+class reference25 {
+}/**
+@__ref <oiref:java#Class#model.FindAPointWithHeuristicCaroRuleNormal:oiref><oihard>
+@__modelType reference 
+@hideAttributes
+@hideOperations
+*/
+class reference26 {
+}/**
+@__ref <oiref:java#Class#model.FindAPointWithHeuristicGomokuEasy:oiref><oihard>
+@__modelType reference 
+@hideOperations
+@hideAttributes
+*/
+class reference27 {
+}/**
+@__ref <oiref:java#Class#model.APlayerType:oiref><oihard>
+@__modelType reference 
+*/
+class reference1 {
+}}/**
+@__tags
+@shapeType ClassDiagram 
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions <oigroup:MemberLink#<oiref:java#Member#model.Model#chessBoard:oiref>=317,370,317,302:oigroup>
+<oigroup:<oiref:java#Class#model.CheckWinGomokuRule:oiref>=-30,520,142,56,1:oigroup>
+<oigroup:<oiref:java#Member#model.PlayerType#setFindAPointToPlay_PlayerTwo#(#model.FindAPointStrategy#)#:oiref>=560,20,236,16,1:oigroup>
+<oigroup:<oiref:java#Class#model.IModel:oiref>=450,240,188,283,1:oigroup>
+<oigroup:<oiref:java#Class#model.Model:oiref>=230,370,174,142,1:oigroup>
+<oigroup:<oiref:java#Class#model.FindAPointWithHeuristicGomokuEasy:oiref>=680,800,230,60,0:oigroup>
+<oigroup:<oiref:java#Class#model.FindAPointStrategy:oiref>=580,550,140,72,0:oigroup>
+<oigroup:<oiref:java#Class#model.FindAPointWithHeuristicCaroRuleNormal:oiref>=590,700,250,56,0:oigroup>
+<oigroup:<oiref:java#Implements#model.CheckWinCaroRule#model.CheckWinStrategy:oiref>=180,520,180,490,100,490,100,461:oigroup>
+<oigroup:<oiref:java#Class#model.Point:oiref>=660,360,83,56,1:oigroup>
+<oigroup:<oiref:java#Class#model.CheckWinCaroRule:oiref>=120,520,122,56,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#model.Human_Human#findAPointPlayerTwo:oiref>=649,600,1022,111:oigroup>
+<oigroup:<oiref:java#Class#model.CheckWinStrategy:oiref>=30,370,140,91,0:oigroup>
+<oigroup:<oiref:java#Implements#model.FindAPointWithHeuristicGomokuEasy#model.FindAPointStrategy:oiref>=850,800,850,680,650,680,650,622:oigroup>
+<oigroup:<oiref:java#Class#model.FindAPointWithHuman:oiref>=420,710,138,56,1:oigroup>
+<oigroup:<oiref:java#Extends#model.Human_Computer#model.PlayerType:oiref>=700,220,700,200,620,200,620,160:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#model.ChessBoard#aChessBoard:oiref>=373,302,373,327,440,327,440,264,411,264:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#model.Model#checkWin:oiref>=230,415,170,415:oigroup>
+<oigroup:<oiref:java#Implements#model.FindAPointWithHeuristicCaroRuleNormal#model.FindAPointStrategy:oiref>=710,700,710,680,650,680,650,622:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#model.Human_Computer#findAPointPlayerTwo:oiref>=890,610,1062,111:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#model.Model#playerType:oiref>=320,512,320,550:oigroup>
+<oigroup:<oiref:java#Class#model.Human_Human:oiref>=190,740,95,56,1:oigroup>
+<oigroup:<oiref:java#Implements#model.FindAPointWithHeuristicCaroRuleEasy#model.FindAPointStrategy:oiref>=560,800,560,700,560,680,650,680,650,622:oigroup>
+<oigroup:<oiref:java#Class#model.Human_Computer:oiref>=300,740,111,56,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#model.APlayerType#findAPointPlayerTwo:oiref>=420,574,580,574:oigroup>
+<oigroup:<oiref:java#Extends#model.Human_Human#model.APlayerType:oiref>=240,740,240,720,310,720,310,692:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#model.PlayerType#findAPointPlayerTwo:oiref>=740,100,780,100,780,330,710,330:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#model.Human_Human#findAPointPlayerOne:oiref>=699,600,1054,111:oigroup>
+<oigroup:<oiref:java#Extends#model.Human_Human#model.PlayerType:oiref>=540,220,540,200,620,200,620,160:oigroup>
+<oigroup:<oiref:java#Implements#model.Model#model.IModel:oiref>=404,441,450,441:oigroup>
+<oigroup:<oiref:java#Class#model.FindAPointWithHeuristicCaroRuleEasy:oiref>=440,800,230,60,0:oigroup>
+<oigroup:<oiref:java#Implements#model.FindAPointWithHuman#model.FindAPointStrategy:oiref>=480,710,480,680,650,680,650,622:oigroup>
+<oigroup:<oiref:java#Implements#model.CheckWinGomokuRule#model.CheckWinStrategy:oiref>=30,520,30,490,100,490,100,461:oigroup>
+<oigroup:<oiref:java#Extends#model.Human_Computer#model.APlayerType:oiref>=380,740,380,720,310,720,310,692:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#model.Human_Computer#findAPointPlayerOne:oiref>=940,610,1070,111:oigroup>
+<oigroup:<oiref:java#Implements#model.Human_Computer#model.PlayerType:oiref>=840,610,705,143:oigroup>
+<oigroup:<oiref:java#Class#model.ChessBoard:oiref>=220,0,191,302,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#model.APlayerType#findAPointPlayerOne:oiref>=420,598,580,598:oigroup>
+<oigroup:<oiref:java#Class#model.APlayerType:oiref>=220,550,200,142,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#model.PlayerType#findAPointPlayerOne:oiref>=740,80,780,80,780,340,710,340:oigroup>
+<oigroup:<oiref:java#Implements#model.Human_Human#model.PlayerType:oiref>=631,600,631,143:oigroup>
+*/
+class __positions {
+}

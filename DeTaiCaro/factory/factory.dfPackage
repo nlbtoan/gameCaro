@@ -1,0 +1,49 @@
+package idgwzmfnrog70ofnrojbvm;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:java#Class#factory.FactoryWithGomokuRule:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}/**
+@__ref <oiref:java#Class#factory.AdapterFactory:oiref><oihard>
+@__modelType reference
+@hideAttributes
+@hideOperations 
+*/
+class reference10 {
+}/**
+@__ref <oiref:java#Class#factory.FactoryWithCaroRule:oiref><oihard>
+@__modelType reference 
+*/
+class reference11 {
+}/**
+@__ref <oiref:java#Class#factory.AbstactFactory:oiref><oihard>
+@__modelType reference 
+*/
+class reference12 {
+}}/**
+@__tags
+@shapeType ClassDiagram 
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions <oigroup:<oiref:java#Class#factory.AbstactFactory:oiref>=32,10,288,206,0:oigroup>
+<oigroup:<oiref:java#Class#factory.FactoryWithGomokuRule:oiref>=20,280,157,85,1:oigroup>
+<oigroup:<oiref:java#Extends#factory.FactoryWithGomokuRule#factory.AbstactFactory:oiref>=90,280,90,250,130,250,170,250,170,216:oigroup>
+<oigroup:<oiref:java#Class#factory.FactoryWithCaroRule:oiref>=190,280,137,85,1:oigroup>
+<oigroup:<oiref:java#Extends#factory.FactoryWithCaroRule#factory.AbstactFactory:oiref>=260,280,260,250,170,250,170,216:oigroup>
+<oigroup:<oiref:java#Class#factory.AdapterFactory:oiref>=350,70,99,56,1:oigroup> 
+*/
+class __positions {
+}

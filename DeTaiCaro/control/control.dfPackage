@@ -1,0 +1,40 @@
+package id14ij1fnrog70ofnrojbv6;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:java#Class#control.Main:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}/**
+@__ref <oiref:java#Class#control.Controler:oiref><oihard>
+@__modelType reference 
+*/
+class reference8 {
+}/**
+@__ref <oiref:java#Class#control.IControlGame:oiref><oihard>
+@__modelType reference 
+*/
+class reference9 {
+}}/**
+@__tags
+@shapeType ClassDiagram 
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions <oigroup:<oiref:java#Class#control.Controler:oiref>=30,270,135,142,1:oigroup>
+<oigroup:<oiref:java#Class#control.IControlGame:oiref>=10,10,181,229,1:oigroup>
+<oigroup:<oiref:java#Implements#control.Controler#control.IControlGame:oiref>=97,270,97,239:oigroup>
+<oigroup:<oiref:java#Class#control.Main:oiref>=211,10,83,85,1:oigroup> 
+*/
+class __positions {
+}

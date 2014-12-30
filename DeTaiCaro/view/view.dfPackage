@@ -1,0 +1,72 @@
+package id29c7gfnbzd6ngfnbzs95u;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:java#Class#view.IGUICaro:oiref><oihard>
+@__modelType reference 
+*/
+class reference {
+}/**
+@__ref <oiref:java#Class#view.PlayAudio:oiref><oihard>
+@__modelType reference 
+@hideAttributes
+@hideOperations
+*/
+class reference42 {
+}/**
+@__ref <oiref:java#Class#view.ShowMessage:oiref><oihard>
+@__modelType reference 
+@hideAttributes
+*/
+class reference43 {
+}/**
+@__ref <oiref:java#Class#view.ScreenDisplay:oiref><oihard>
+@__modelType reference
+@hideAttributes
+@hideOperations
+@hideClasses*/
+class reference44 {
+}/**
+@__ref <oiref:java#Class#view.MyButton:oiref><oihard>
+@__modelType reference 
+*/
+class reference45 {
+}/**
+@shapeType DependencyLink
+@__modelType link
+@__ref <oiref:design#Class#idebkzfnbzd6ngfnbzs94j.diagram:oiref><oihard> 
+*/
+class link {
+}/**
+@__ref <oiref:design#Class#id4ojiofnbzd6ngfnbzs969.diagram:oiref><oihard>
+@__modelType reference
+@__fqn <oiref:#Package#DeTaiCaro.view.imageCaro:oiref> 
+*/
+class reference13 {
+}}/**
+@__tags
+@shapeType ClassDiagram 
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions <oigroup:<oiref:java#Implements#view.ScreenDisplay#view.IGUICaro:oiref>=190,80,152,80:oigroup>
+<oigroup:<oiref:java#Class#view.ShowMessage:oiref>=320,180,103,75,1:oigroup>
+<oigroup:<oiref:java#Class#view.PlayAudio:oiref>=200,170,83,56,1:oigroup>
+<oigroup:<oiref:java#Class#view.MyButton:oiref>=310,20,110,142,1:oigroup>
+<oigroup:<oiref:java#Class#view.IGUICaro:oiref>=10,10,142,245,1:oigroup>
+<oigroup:<oiref:design#Class#id4ojiofnbzd6ngfnbzs969.diagram:oiref>=210,240,81,57,1:oigroup>
+<oigroup:<oiref:java#Class#view.ScreenDisplay:oiref>=190,40,94,85,1:oigroup>
+<oigroup:MemberLink#<oiref:java#Member#view.ScreenDisplay#playAudio:oiref>=241,125,241,170:oigroup>
+ 
+*/
+class __positions {
+}

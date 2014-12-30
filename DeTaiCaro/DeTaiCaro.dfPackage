@@ -1,0 +1,46 @@
+package id1pmpafnrog70ofnrojbur;
+
+/**
+@version 2.0
+@physicalPackage
+@__modelType diagram 
+*/
+class diagram {
+/**
+@__ref <oiref:design#Class#id14ij1fnrog70ofnrojbv6.diagram:oiref><oihard>
+@__modelType reference
+@__fqn <oiref:#Package#DeTaiCaro.control:oiref> 
+*/
+class reference {
+}/**
+@__ref <oiref:design#Class#idgwzmfnrog70ofnrojbvm.diagram:oiref><oihard>
+@__modelType reference
+@__fqn <oiref:#Package#DeTaiCaro.factory:oiref> 
+*/
+class reference5 {
+}/**
+@__ref <oiref:design#Class#id377okfnqmmhlufnqmt7t1.diagram:oiref><oihard>
+@__modelType reference
+@__fqn <oiref:#Package#DeTaiCaro.model:oiref> 
+*/
+class reference6 {
+}/**
+@__ref <oiref:design#Class#id29c7gfnbzd6ngfnbzs95u.diagram:oiref><oihard>
+@__modelType reference
+@__fqn <oiref:#Package#DeTaiCaro.view:oiref> 
+*/
+class reference7 {
+}}/**
+@__tags
+@shapeType ClassDiagram 
+*/
+class __tags {
+}/**
+@__options 
+*/
+class __options {
+}/**
+@__positions 
+*/
+class __positions {
+}
